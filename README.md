@@ -1,4 +1,4 @@
-# Streamlit aplicativo interativo
+# Aplicativo interativo Streamlit
 
 Um aplicativo web simples e interativo construído com **Python** e **Streamlit** para demonstrar componentes de interface e visualização de dados.
 
