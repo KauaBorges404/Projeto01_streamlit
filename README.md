@@ -15,5 +15,5 @@ Um aplicativo web simples e interativo construído com **Python** e **Streamlit*
 1. Instale o Streamlit:
    ```powershell
    pip install streamlit
-2. Acesse o site:
+2. Acesse o site para testar:
 https://projeto01app-ajr2kmrfktehhndsdjq4ud.streamlit.app/
